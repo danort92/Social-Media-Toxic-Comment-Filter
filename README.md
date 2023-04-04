@@ -13,9 +13,9 @@ Embedding, Bidirectional, TimeDistributed, Flatten Dense Droput and Dense layers
 
 The analyzed cases are the following:
 
-1-Downsampling non-toxic train dataset;
-2-Oversampling toxic train dataset;
-3-Label sensitive oversampling toxic train dataset;
-4-Words Embedding;
-5-Oversampling oxic train dataset plud Words Embedding;
-6-Label sensitive oversampling toxic train dataset plus Words Embedding.
+1. Downsampling non-toxic train dataset;
+2. Oversampling toxic train dataset;
+3. Label sensitive oversampling toxic train dataset;
+4. Words Embedding;
+5. Oversampling oxic train dataset plud Words Embedding;
+6. abel sensitive oversampling toxic train dataset plus Words Embedding.
