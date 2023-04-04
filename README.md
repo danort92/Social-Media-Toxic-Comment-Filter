@@ -12,6 +12,7 @@ For each case the Deep Learning model hyperparameters do not substancially chang
 Embedding, Bidirectional, TimeDistributed, Flatten Dense Droput and Dense layers.
 
 The analyzed cases are the following:
+
 1-Downsampling non-toxic train dataset;
 2-Oversampling toxic train dataset;
 3-Label sensitive oversampling toxic train dataset;
