@@ -1,4 +1,4 @@
-## Social-Media-Toxic-Comment-Filter
+## Social Media Toxic Comment Filter
 
 The model can filter user comments based on the degree of harmfulness of the language through these steps:
 * _Preprocess the text by eliminating the set of tokens that do not contribute significantly to the semantic level;_
